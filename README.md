@@ -32,29 +32,29 @@ Install packages:
 - react-navigation
 
 
-# Components used
+# Components and APIS used
 
-- StyleSheet
-- Image
-- Platform
-- createBottomTabNavigator
-- createAppContainer
-- View
-- Text
-- TouchableOpacity
-- Constants
-- ScrollView
-- TextInput
-- Button
 - Alert
-- Picker
 - AsyncStorage
-- DatePickerIOS
+- BackHandler
+- Button
+- Constants
+- createAppContainer
+- createBottomTabNavigator
 - DatePickerAndroid
+- DatePickerIOS
 - Dimensions
 - Flatlist
-- BackHandler
+- Image
 - Modal
+- Picker
+- Platform
+- ScrollView
+- StyleSheet
+- Text
+- TextInput
+- TouchableOpacity
+- View
 
 # Custom components
 
