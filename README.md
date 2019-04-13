@@ -29,6 +29,7 @@ Install packages:
 - expo: 32.0.0
 
 # Plugins used
+- react-native
 - react-navigation
 
 
